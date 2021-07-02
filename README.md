@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ErickMayson, automobilistic and computer enthusiast, I been programming since 2018 and started a Degree in computer science in 2019. I'm from Brazil, 19y old and I can currently speak English and Portuguese.
 - 👀 I’m interested in Programming and engineering, but currently i'm focused on programming.
-- 🌱 I’m currently learning Node.Js, React and React Native, Java, C, Python, Typescript, Javascript.
+- 🌱 I’m currently learning HTML, CSS, Javascript, React e Node.js.
+- I have knowledge of the following programming languages: C, Java e Python.
 - 📫 How to reach me ferreiraerick0101@gmail.com
 
 PT
