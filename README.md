@@ -7,5 +7,6 @@ PT
 
 - Olá, sou @ErickMayson, entusiasta em automobilismo e computadores, tive meu primeiro contato com programação em 2018 e comecei um curso superior em ciência da computação em 2019 no IFSP. Sou Brasileiro, tenho 19 anos e sou fluente em Inglês e Português.
 - Meus interesses são programação e engenharia, meus interesses desde a infância, atualmente estou focado em programação pois é algo que gosto e acredito que auxilia nos meus objetivos.
-- Estou atualmente aprendendo sobre Node, React e React Native, Java, C, Python, Typescript e Javascript.
+- Estou atualmente aprendendo sobre HTML, CSS, Javascript, React e Node.js. 
+- Tenho conhecimentos em C, Java e Python.
 - Para entrar em contato: Ferreiraerick0101@gmail.com
