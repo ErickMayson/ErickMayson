@@ -1,13 +1,15 @@
-- 👋 Hi, I’m @ErickMayson, automobilistic and computer enthusiast, I been programming since 2018 and started a Degree in computer science in 2019. I'm from Brazil, 19y old and I can currently speak English and Portuguese.
-- 👀 I’m interested in Programming and engineering, but currently i'm focused on programming.
-- 🌱 I’m currently learning HTML, CSS, Javascript, React e Node.js.
-- I have knowledge of the following programming languages: C, Java e Python.
-- 📫 How to reach me ferreiraerick0101@gmail.com
+- 👋 Hi, I’m @ErickMayson, currently pursuing a Computer Science Degree and also a Software Developer.
+- 👀 I'm able to communicate effectively both in English and Portuguese.
+- 🌱 I'm able to program effeciently in Python, Javascript and Java.
+- 📫 How to reach me:
+- Email: ferreiraerick0101@gmail.com
+- Linkedin: https://www.linkedin.com/in/erick-mayson-ab95b8203/
 
 PT
 
-- Olá, sou @ErickMayson, entusiasta em automobilismo e computadores, tive meu primeiro contato com programação em 2018 e comecei um curso superior em ciência da computação em 2019 no IFSP. Sou Brasileiro, tenho 19 anos e sou fluente em Inglês e Português.
-- Meus interesses são programação e engenharia, atualmente estou focado em programação pois é algo que adquiri maior afinidade e acredito que auxilia nos meus objetivos.
-- Estou atualmente aprendendo sobre HTML, CSS, Javascript, React e Node.js. 
-- Tenho conhecimentos em C, Java e Python.
-- Para entrar em contato: Ferreiraerick0101@gmail.com
+- Olá, sou @ErickMayson, Sou estudante de ciências da computação e desenvolvedor de software.
+- Sou capaz de me comunicar efetivamente em tanto em português quanto em inglês.
+- Tenho proficiências nas seguintes linguagens: Python, Javascript e Java. 
+- Para entrar em contato:
+- Email: ferreiraerick0101@gmail.com
+- Linkedin: https://www.linkedin.com/in/erick-mayson-ab95b8203/
