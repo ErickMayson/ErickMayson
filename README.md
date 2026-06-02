@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Backend+Developer;Java+%7C+Python+%7C+JavaScript;Building+robust+systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=ErickMayson&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
 </div>
 
 ---
